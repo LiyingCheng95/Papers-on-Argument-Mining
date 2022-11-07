@@ -240,8 +240,6 @@ Cross-Domain Label-Adaptive Stance Detection
 
 Is Stance Detection Topic-Independent and Cross-topic Generalizable? - A Reproduction Study
 
-Unsupervised stance detection for arguments from consequences
-
 “A Little Birdie Told Me ... ” - Inductive Biases for Rumour Stance Detection on Social Media
 
 
