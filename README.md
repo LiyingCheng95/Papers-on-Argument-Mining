@@ -57,6 +57,14 @@ Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-
 
 Document-Level Event Argument Extraction by Conditional Generation
 
+Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction
+
+Learning Cross-Task Dependencies for Joint Extraction of Entities, Events, Event Arguments, and Relations
+
+Explicit Role Interaction Network for Event Argument Extraction
+
+Open-Vocabulary Argument Role Prediction For Event Extraction
+
 
 ### Generation & Summarization:
 
@@ -98,6 +106,25 @@ ENTRUST: Argument Reframing with Language Models and Entailment
 
 ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining
 
+Transfer Learning from Semantic Role Labeling to Event Argument Extraction with Template-based Slot Querying
+
+Retrieval-Augmented Generative Question Answering for Event Argument Extraction
+
+
+### Essays & academic writings:
+
+Parsing Argumentative Structure in English-as-Foreign-Language Essays
+
+“Sharks are not the threat humans are”: Argument Component Segmentation in School Student Essays
+
+Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays
+
+Don’t Drop the Topic - The Role of the Prompt in Argument Identification in Student Writing
+
+ALEN App: Argumentative Writing Support To Foster English Language Learning
+
+AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning
+
 
 ### Argument Pair Extraction (APE):
 
@@ -114,6 +141,8 @@ Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph
 APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning
 
 Discrete Argument Representation Learning for Interactive Argument Pair Identification
+
+A Simple Contrastive Learning Framework for Interactive Argument Pair Identification via Argument-Context Extraction
 
 
 ### Persuasion:
@@ -147,6 +176,8 @@ On Classifying whether Two Texts are on the Same Side of an Argument
 
 Classifying Argumentative Relations Using Logical Mechanisms and Argumentation Schemes
 
+Probing Structural Knowledge from Pre-trained Language Model for Argumentation Relation Classification
+
 
 ### Quality:
 
@@ -158,18 +189,7 @@ Efficient Pairwise Annotation of Argument Quality
 
 Automatic Argument Quality Assessment - New Datasets and Methods
 
-
-### Essays & academic writings:
-
-Parsing Argumentative Structure in English-as-Foreign-Language Essays
-
-“Sharks are not the threat humans are”: Argument Component Segmentation in School Student Essays
-
-Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays
-
-Don’t Drop the Topic - The Role of the Prompt in Argument Identification in Student Writing
-
-ALEN App: Argumentative Writing Support To Foster English Language Learning
+Graph Embeddings for Argumentation Quality Assessment
 
 
 ### Stance Detection/Classification:
@@ -289,6 +309,10 @@ Machine Comprehension Improves Domain-Specific Japanese Predicate-Argument Struc
 
 Multi-Task Learning for Japanese Predicate Argument Structure Analysis
 
+An Empirical Study of Span Representations in Argumentation Structure Parsing
+
+It’s Time to Reason: Annotating Argumentation Structures in Financial Earnings Calls: The FinArg Dataset
+
 
 ### Others
 
@@ -328,8 +352,6 @@ Probing Neural Network Comprehension of Natural Language Arguments
 
 Yes, we can! Mining Arguments in 50 Years of US Presidential Campaign Debates
 
-An Empirical Study of Span Representations in Argumentation Structure Parsing
-
 Annotating and Analyzing Semantic Role of Elementary Units and Relations in Online Persuasive Arguments
 
 TARGER: Neural Argument Mining at Your Fingertips
@@ -362,3 +384,14 @@ Argument Mining for Understanding Peer Reviews
 
 End-to-end Argument Mining with Cross-corpora Multi-task Learning
 
+Argument Mining for Review Helpfulness Prediction
+
+A Generative Model for End-to-End Argument Mining with Reconstructed Positional Encoding and Constrained Pointer Mechanism
+
+Offer a Different Perspective: Modeling the Belief Alignment of Arguments in Multi-party Debates
+
+Opening up Minds with Argumentative Dialogues
+
+A Dataset of Sustainable Diet Arguments on Twitter
+
+The Legal Argument Reasoning Task in Civil Procedure
