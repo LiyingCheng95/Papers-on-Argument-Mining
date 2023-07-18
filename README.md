@@ -65,6 +65,28 @@ Explicit Role Interaction Network for Event Argument Extraction
 
 Open-Vocabulary Argument Role Prediction For Event Extraction
 
+Revisiting Event Argument Extraction: Can EAE Models Learn Better When Being Aware of Event Co-occurrences? (ACL 2023)
+
+AMPERE: AMR-Aware Prefix for Generation-Based Event Argument Extraction Model (ACL 2023)
+
+Document-Level Event Argument Extraction With a Chain Reasoning Paradigm (ACL 2023)
+
+GENEVA: Benchmarking Generalizability for Event Argument Extraction with Hundreds of Event Types and Argument Roles (ACL 2023)
+
+Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation (ACL 2023)
+
+Few-Shot Document-Level Event Argument Extraction (ACL 2023)
+
+An AMR-based Link Prediction Approach for Document-level Event Argument Extraction (ACL 2023)
+
+What Is Overlap Knowledge in Event Argument Extraction? APE: A Cross-datasets Transfer Learning Model for EAE (ACL 2023)
+
+Trigger-Argument based Explanation for Event Detection (Findings of ACL 2023)
+
+Enhancing Document-level Event Argument Extraction with Contextual Clues and Role Relevance (Findings of ACL 2023)
+
+Contextualized Soft Prompts for Extraction of Event Arguments (Findings of ACL 2023)
+
 
 ### Generation & Summarization:
 
@@ -110,6 +132,10 @@ Transfer Learning from Semantic Role Labeling to Event Argument Extraction with 
 
 Retrieval-Augmented Generative Question Answering for Event Argument Extraction
 
+ArgU: A Controllable Factual Argument Generator (ACL 2023)
+
+Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking (Findings of ACL 2023)
+
 
 ### Essays & academic writings:
 
@@ -124,6 +150,10 @@ Don’t Drop the Topic - The Role of the Prompt in Argument Identification in St
 ALEN App: Argumentative Writing Support To Foster English Language Learning
 
 AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning
+
+To Revise or Not to Revise: Learning to Detect Improvable Claims for Argumentative Writing Support (ACL 2023)
+
+Score It All Together: A Multi-Task Learning Study on Automatic Scoring of Argumentative Essays (Findings of ACL 2023)
 
 
 ### Argument Pair Extraction (APE):
@@ -143,6 +173,10 @@ APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learn
 Discrete Argument Representation Learning for Interactive Argument Pair Identification
 
 A Simple Contrastive Learning Framework for Interactive Argument Pair Identification via Argument-Context Extraction
+
+AQE: Argument Quadruplet Extraction via a Quad-Tagging Augmented Generative Approach (Findings of ACL 2023)
+
+Probing Graph Decomposition for Argument Pair Extraction (Findings of ACL 2023)
 
 
 ### Persuasion:
@@ -178,6 +212,8 @@ Classifying Argumentative Relations Using Logical Mechanisms and Argumentation S
 
 Probing Structural Knowledge from Pre-trained Language Model for Argumentation Relation Classification
 
+StoryARG: a corpus of narratives and personal experiences in argumentative texts (ACL 2023)
+
 
 ### Quality:
 
@@ -190,6 +226,12 @@ Efficient Pairwise Annotation of Argument Quality
 Automatic Argument Quality Assessment - New Datasets and Methods
 
 Graph Embeddings for Argumentation Quality Assessment
+
+ArgAnalysis35K : A large-scale dataset for Argument Quality Analysis (ACL 2023)
+
+Similarity-weighted Construction of Contextualized Commonsense Knowledge Graphs for Knowledge-intense Argumentation Tasks (ACL 2023)
+
+Cross-Domain Argument Quality Estimation (Findings of ACL 2023)
 
 
 ### Stance Detection/Classification:
@@ -313,6 +355,10 @@ An Empirical Study of Span Representations in Argumentation Structure Parsing
 
 It’s Time to Reason: Annotating Argumentation Structures in Financial Earnings Calls: The FinArg Dataset
 
+Node Placement in Argument Maps: Modeling Unidirectional Relations in High & Low-Resource Scenarios (ACL 2023)
+
+End-to-End Argument Mining over Varying Rhetorical Structures (Findings of ACL 2023)
+
 
 ### Others
 
@@ -395,3 +441,9 @@ Opening up Minds with Argumentative Dialogues
 A Dataset of Sustainable Diet Arguments on Twitter
 
 The Legal Argument Reasoning Task in Civil Procedure
+
+Similarity-weighted Construction of Contextualized Commonsense Knowledge Graphs for Knowledge-intense Argumentation Tasks (ACL 2023)
+
+A Dataset of Argumentative Dialogues on Scientific Papers (ACL 2023)
+
+Modeling Appropriate Language in Argumentation (ACL 2023)
