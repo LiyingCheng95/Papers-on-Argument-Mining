@@ -1,5 +1,5 @@
-# Papers-on-Argument-Mining
-NLP Papers on Argument Mining (2019 - 2022)
+# Papers-on-Computational-Argumentation
+NLP Papers on Computational Argumentation (2019 - 2023)
 
 
 ### Survey:
@@ -392,7 +392,7 @@ Decompositional Argument Mining: A General Purpose Approach for Argument Graph C
 
 A Corpus for Modeling User and Language Effects in Argumentation on Online Debating
 
-Argument Invention from First Principles
+Argument Invention from First Principles (ACL 2019)
 
 Probing Neural Network Comprehension of Natural Language Arguments
 
