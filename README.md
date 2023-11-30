@@ -87,6 +87,12 @@ Enhancing Document-level Event Argument Extraction with Contextual Clues and Rol
 
 Contextualized Soft Prompts for Extraction of Event Arguments (Findings of ACL 2023)
 
+MailEx: Email Event and Argument Extraction (EMNLP 2023)
+
+CorefPrompt: Prompt-based Event Coreference Resolution by Measuring Event Type and Argument Compatibilities (EMNLP 2023)
+
+Intra-Event and Inter-Event Dependency-Aware Graph Network for Event Argument Extraction (Findings of EMNLP 2023)
+
 
 ### Generation & Summarization:
 
@@ -135,6 +141,16 @@ Retrieval-Augmented Generative Question Answering for Event Argument Extraction
 ArgU: A Controllable Factual Argument Generator (ACL 2023)
 
 Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking (Findings of ACL 2023)
+
+ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization (EMNLP 2023)
+
+Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals (EMNLP 2023)
+
+Argue with Me Tersely: Towards Sentence-Level Counter-Argument Generation (EMNLP 2023)
+
+High-quality argumentative information in low resources approaches improve counter-narrative generation (Findings of EMNLP 2023)
+
+Mind the Gap: Automated Corpus Creation for Enthymeme Detection and Reconstruction in Learner Arguments (Findings of EMNLP 2023)
 
 
 ### Essays & academic writings:
@@ -195,6 +211,8 @@ What Gets Echoed? Understanding the “Pointers” in Explanations of Persuasive
 
 AMPERSAND: Argument Mining for PERSuAsive oNline Discussions
 
+Unveiling the Power of Argument Arrangement in Online Persuasive Discussions (Findings of EMNLP 2023)
+
 
 ### Classification & Clustering:
 
@@ -214,6 +232,8 @@ Probing Structural Knowledge from Pre-trained Language Model for Argumentation R
 
 StoryARG: a corpus of narratives and personal experiences in argumentative texts (ACL 2023)
 
+Argument-based Detection and Classification of Fallacies in Political Debates (EMNLP 2023)
+
 
 ### Quality:
 
@@ -232,6 +252,10 @@ ArgAnalysis35K : A large-scale dataset for Argument Quality Analysis (ACL 2023)
 Similarity-weighted Construction of Contextualized Commonsense Knowledge Graphs for Knowledge-intense Argumentation Tasks (ACL 2023)
 
 Cross-Domain Argument Quality Estimation (Findings of ACL 2023)
+
+Contextual Interaction for Argument Post Quality Assessment (EMNLP 2023)
+
+Architectural Sweet Spots for Modeling Human Label Variation by the Example of Argument Quality: It’s Best to Relate Perspectives! (EMNLP 2023)
 
 
 ### Stance Detection/Classification:
@@ -325,7 +349,10 @@ Stance Detection in German News Articles
 
 Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations
 
-IAM: A Comprehensive and Large-Scale Dataset for Integrated Argument Mining Tasks
+IAM: A Comprehensive and Large-Scale Dataset for Integrated Argument Mining Tasks (ACL 2022)
+
+ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization (EMNLP 2023)
+
 
 
 ### Evidence:
@@ -358,6 +385,20 @@ It’s Time to Reason: Annotating Argumentation Structures in Financial Earnings
 Node Placement in Argument Maps: Modeling Unidirectional Relations in High & Low-Resource Scenarios (ACL 2023)
 
 End-to-End Argument Mining over Varying Rhetorical Structures (Findings of ACL 2023)
+
+Automatic Debate Evaluation with Argumentation Semantics and Natural Language Argument Graph Networks (EMNLP 2023)
+
+Hi-ArG: Exploring the Integration of Hierarchical Argumentation Graphs in Language Pretraining (EMNLP 2023)
+
+VivesDebate-Speech: A Corpus of Spoken Argumentation to Leverage Audio Features for Argument Mining (EMNLP 2023)
+
+Hierarchical Enhancement Framework for Aspect-based Argument Mining （Findings of EMNLP 2023）
+
+From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction（Findings of EMNLP 2023）
+
+Argument mining as a multi-hop generative machine reading comprehension task （Findings of EMNLP 2023）
+
+Enhancing Argument Structure Extraction with Efficient Leverage of Contextual Information (Findings of EMNLP 2023)
 
 
 ### Others
@@ -447,3 +488,7 @@ Similarity-weighted Construction of Contextualized Commonsense Knowledge Graphs 
 A Dataset of Argumentative Dialogues on Scientific Papers (ACL 2023)
 
 Modeling Appropriate Language in Argumentation (ACL 2023)
+
+DREAM: Deployment of Recombination and Ensembles in Argument Mining (EMNLP 2023)
+
+Finding Authentic Counterhate Arguments: A Case Study with Public Figures (EMNLP 2023)
