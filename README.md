@@ -1,5 +1,5 @@
 # Papers-on-Computational-Argumentation
-NLP Papers on Computational Argumentation (2019 - 2023)
+NLP Papers on Computational Argumentation (2019 - present)
 
 
 ### Survey:
@@ -95,6 +95,12 @@ CorefPrompt: Prompt-based Event Coreference Resolution by Measuring Event Type a
 
 Intra-Event and Inter-Event Dependency-Aware Graph Network for Event Argument Extraction (Findings of EMNLP 2023)
 
+TISE: A Tripartite In-context Selection Method for Event Argument Extraction (NAACL 2024)
+
+Generating Uncontextualized and Contextualized Questions for Document-Level Event Argument Extraction (NAACL 2024)
+
+Separation and Fusion: A Novel Multiple Token Linking Model for Event Argument Extraction (NAACL 2024)
+
 
 ### Generation & Summarization:
 
@@ -154,6 +160,8 @@ High-quality argumentative information in low resources approaches improve count
 
 Mind the Gap: Automated Corpus Creation for Enthymeme Detection and Reconstruction in Learner Arguments (Findings of EMNLP 2023)
 
+Enhancing Argument Summarization: Prioritizing Exhaustiveness in Key Point Generation and Introducing an Automatic Coverage Evaluation Metric (NAACL 2024)
+
 
 ### Essays & academic writings:
 
@@ -172,6 +180,8 @@ AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planni
 To Revise or Not to Revise: Learning to Detect Improvable Claims for Argumentative Writing Support (ACL 2023)
 
 Score It All Together: A Multi-Task Learning Study on Automatic Scoring of Argumentative Essays (Findings of ACL 2023)
+
+A School Student Essay Corpus for Analyzing Interactions of Argumentative Structure and Quality (NAACL 2024)
 
 
 ### Argument Pair Extraction (APE):
@@ -259,6 +269,12 @@ Contextual Interaction for Argument Post Quality Assessment (EMNLP 2023)
 
 Architectural Sweet Spots for Modeling Human Label Variation by the Example of Argument Quality: It’s Best to Relate Perspectives! (EMNLP 2023)
 
+A School Student Essay Corpus for Analyzing Interactions of Argumentative Structure and Quality (NAACL 2024)
+
+CASA: Causality-driven Argument Sufficiency Assessment (NAACL 2024)
+
+Contextualizing Argument Quality Assessment with Relevant Knowledge (NAACL 2024)
+
 
 ### Stance Detection/Classification:
 
@@ -330,6 +346,10 @@ Is Stance Detection Topic-Independent and Cross-topic Generalizable? - A Reprodu
 
 “A Little Birdie Told Me ... ” - Inductive Biases for Rumour Stance Detection on Social Media
 
+Tell me who you are and I tell you how you argue: Predicting Stances and Arguments for Stakeholder Groups (Findings of NAACL 2024)
+
+LLM-Driven Knowledge Injection Advances Zero-Shot and Cross-Target Stance Detection (NAACL 2024)
+
 
 ### Stance - New dataset/Task:
 
@@ -355,6 +375,7 @@ IAM: A Comprehensive and Large-Scale Dataset for Integrated Argument Mining Task
 
 ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization (EMNLP 2023)
 
+Tell me who you are and I tell you how you argue: Predicting Stances and Arguments for Stakeholder Groups (Findings of NAACL 2024)
 
 
 ### Evidence:
@@ -362,6 +383,12 @@ ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argu
 Improving Evidence Detection by Leveraging Warrants
 
 Interactive Evidence Detection: train state-of-the-art model out-of-domain or simple model interactively?
+
+Complex Claim Verification with Evidence Retrieved in the Wild (NAACL 2024)
+
+Improving Open-Domain Health Question Answering with Evidence Quality Assessment (Findings of NAACL 2024)
+
+Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation (NAACL 2024)
 
 
 ### Argument Structure:
@@ -401,6 +428,10 @@ From Simple to Complex: A Progressive Framework for Document-level Informative A
 Argument mining as a multi-hop generative machine reading comprehension task （Findings of EMNLP 2023）
 
 Enhancing Argument Structure Extraction with Efficient Leverage of Contextual Information (Findings of EMNLP 2023)
+
+A School Student Essay Corpus for Analyzing Interactions of Argumentative Structure and Quality (NAACL 2024)
+
+BERTweet’s TACO Fiesta: Contrasting Flavors On The Path Of Inference And Information-Driven Argument Mining On Twitter (Findings of NAACL 2024)
 
 
 ### Others
@@ -494,3 +525,7 @@ Modeling Appropriate Language in Argumentation (ACL 2023)
 DREAM: Deployment of Recombination and Ensembles in Argument Mining (EMNLP 2023)
 
 Finding Authentic Counterhate Arguments: A Case Study with Public Figures (EMNLP 2023)
+
+Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification (NAACL 2024)
+
+Enhancing Perception: Refining Explanations of News Claims with LLM Conversations (Findings of NAACL 2024)
